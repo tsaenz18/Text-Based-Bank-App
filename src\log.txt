@@ -1,0 +1,129 @@
+2021-07-19 09:34:08 INFO  Logging:31 - New user has registered
+2021-07-19 09:54:51 INFO  Logging:31 - New user has registered
+2021-07-19 12:04:10 INFO  Logging:31 - New user has registered
+2021-07-19 14:20:23 INFO  Logging:31 - New user has registered
+2021-07-19 14:23:52 INFO  Logging:31 - New user has registered
+2021-07-19 14:56:39 INFO  Logging:31 - New user has registered
+2021-07-19 15:01:26 INFO  Logging:31 - New user has registered
+2021-07-19 16:20:12 INFO  Logging:31 - New user has registered
+2021-07-20 11:30:38 INFO  Logging:31 - New user has registered
+2021-07-20 12:01:56 INFO  Logging:53 - User was logged in
+2021-07-20 22:34:17 WARN  Logging:45 - User tried loggging in that does not exist
+2021-07-20 22:37:09 INFO  Logging:53 - User was logged in
+2021-07-20 23:16:01 INFO  Logging:53 - User was logged in
+2021-07-20 23:17:53 INFO  Logging:53 - User was logged in
+2021-07-20 23:39:20 INFO  Logging:31 - New user has registered
+2021-07-20 23:45:20 WARN  Logging:45 - User tried loggging in that does not exist
+2021-07-20 23:45:49 INFO  Logging:53 - User was logged in
+2021-07-20 23:52:40 INFO  Logging:53 - User was logged in
+2021-07-21 00:05:43 INFO  Logging:53 - User was logged in
+2021-07-21 02:16:01 INFO  Logging:53 - User was logged in
+2021-07-21 02:16:37 INFO  Logging:53 - User was logged in
+2021-07-21 02:17:25 INFO  Logging:53 - User was logged in
+2021-07-21 02:20:13 INFO  Logging:53 - User was logged in
+2021-07-21 02:22:05 INFO  Logging:53 - User was logged in
+2021-07-21 02:22:51 INFO  Logging:53 - User was logged in
+2021-07-21 02:24:42 INFO  Logging:53 - User was logged in
+2021-07-21 02:25:36 INFO  Logging:53 - User was logged in
+2021-07-21 02:34:47 INFO  Logging:53 - User was logged in
+2021-07-21 02:36:22 INFO  Logging:53 - User was logged in
+2021-07-21 02:37:35 INFO  Logging:53 - User was logged in
+2021-07-21 02:42:19 INFO  Logging:53 - User was logged in
+2021-07-21 02:42:46 INFO  Logging:53 - User was logged in
+2021-07-21 02:44:08 INFO  Logging:53 - User was logged in
+2021-07-21 02:45:12 INFO  Logging:53 - User was logged in
+2021-07-21 07:25:25 INFO  Logging:53 - User was logged in
+2021-07-21 07:28:45 INFO  Logging:53 - User was logged in
+2021-07-21 07:28:52 INFO  Logging:26 - aServ: New account # 5 has been created.
+2021-07-21 07:36:08 INFO  Logging:53 - User was logged in
+2021-07-21 07:36:16 INFO  Logging:27 - aServ: New account # 5 has been created.
+2021-07-21 07:38:09 INFO  Logging:53 - User was logged in
+2021-07-21 08:03:45 INFO  Logging:31 - New user has registered
+2021-07-21 08:04:26 WARN  Logging:45 - User tried loggging in that does not exist
+2021-07-21 08:04:57 INFO  Logging:53 - User was logged in
+2021-07-21 08:35:29 INFO  Logging:53 - User was logged in
+2021-07-21 08:54:13 INFO  Logging:31 - New user has registered
+2021-07-21 10:41:01 INFO  Logging:31 - New user has registered
+2021-07-21 10:41:32 INFO  Logging:53 - User was logged in
+2021-07-21 10:42:13 INFO  Logging:53 - User was logged in
+2021-07-21 10:43:33 INFO  Logging:53 - User was logged in
+2021-07-21 10:44:05 INFO  Logging:53 - User was logged in
+2021-07-24 10:57:48 WARN  Logging:44 - User tried loggging in that does not exist
+2021-07-24 10:58:10 INFO  Logging:52 - User was logged in
+2021-07-24 11:00:25 INFO  Logging:52 - User was logged in
+2021-07-24 11:04:29 INFO  Logging:52 - User was logged in
+2021-07-24 11:14:10 INFO  Logging:52 - User was logged in
+2021-07-24 11:15:20 INFO  Logging:52 - User was logged in
+2021-07-24 11:16:03 INFO  Logging:52 - User was logged in
+2021-07-24 11:17:29 INFO  Logging:52 - User was logged in
+2021-07-24 11:24:42 INFO  Logging:52 - User was logged in
+2021-07-24 11:24:55 INFO  Logging:29 - aServ: New account # 5 has been created.
+2021-07-24 11:26:03 WARN  Logging:48 - User tried to login with invalid credentials
+2021-07-24 11:26:33 INFO  Logging:52 - User was logged in
+2021-07-24 11:26:38 INFO  Logging:29 - aServ: New account # 5 has been created.
+2021-07-24 11:28:56 INFO  Logging:52 - User was logged in
+2021-07-24 11:29:02 INFO  Logging:29 - aServ: New account # 5 has been created.
+2021-07-24 11:32:10 INFO  Logging:52 - User was logged in
+2021-07-24 11:58:48 INFO  Logging:52 - User was logged in
+2021-07-24 12:01:04 INFO  Logging:52 - User was logged in
+2021-07-24 12:01:48 INFO  Logging:52 - User was logged in
+2021-07-24 12:03:18 INFO  Logging:52 - User was logged in
+2021-07-24 12:36:02 INFO  Logging:52 - User was logged in
+2021-07-24 12:43:24 INFO  Logging:52 - User was logged in
+2021-07-24 12:53:08 INFO  Logging:30 - New user has registered
+2021-07-24 12:55:55 INFO  Logging:52 - User was logged in
+2021-07-24 12:56:03 INFO  Logging:29 - aServ: New account # 1 has been created.
+2021-07-24 12:58:17 INFO  Logging:52 - User was logged in
+2021-07-24 13:10:12 INFO  Logging:52 - User was logged in
+2021-07-24 13:10:23 INFO  Logging:28 - aServ: New account # 1 has been created.
+2021-07-24 13:12:06 INFO  Logging:52 - User was logged in
+2021-07-24 13:13:01 INFO  Logging:52 - User was logged in
+2021-07-24 13:15:28 INFO  Logging:52 - User was logged in
+2021-07-24 13:21:22 INFO  Logging:52 - User was logged in
+2021-07-24 16:10:27 INFO  Logging:52 - User was logged in
+2021-07-24 16:11:27 INFO  Logging:52 - User was logged in
+2021-07-24 16:24:32 INFO  Logging:52 - User was logged in
+2021-07-24 16:30:21 INFO  Logging:52 - User was logged in
+2021-07-24 16:34:52 INFO  Logging:52 - User was logged in
+2021-07-24 16:38:56 INFO  Logging:52 - User was logged in
+2021-07-24 16:42:12 INFO  Logging:52 - User was logged in
+2021-07-24 16:43:16 INFO  Logging:29 - aServ: New account # 1 has been created.
+2021-07-24 16:43:16 INFO  Logging:29 - aServ: New account # 1 has been created.
+2021-07-24 16:43:16 INFO  Logging:29 - aServ: New account # 1 has been created.
+2021-07-24 16:43:16 INFO  Logging:29 - aServ: New account # 1 has been created.
+2021-07-24 16:43:16 INFO  Logging:29 - aServ: New account # 1 has been created.
+2021-07-24 16:43:16 INFO  Logging:29 - aServ: New account # 1 has been created.
+2021-07-24 16:43:16 INFO  Logging:29 - aServ: New account # 1 has been created.
+2021-07-24 16:45:35 INFO  Logging:52 - User was logged in
+2021-07-24 16:45:44 INFO  Logging:29 - aServ: New account # 1 has been created.
+2021-07-24 16:46:56 INFO  Logging:52 - User was logged in
+2021-07-24 16:47:02 INFO  Logging:29 - aServ: New account # 1 has been created.
+2021-07-24 17:00:46 INFO  Logging:52 - User was logged in
+2021-07-24 17:01:12 INFO  Logging:52 - User was logged in
+2021-07-24 17:01:25 INFO  Logging:29 - aServ: New account # 1 has been created.
+2021-07-24 17:04:13 WARN  Logging:44 - User tried loggging in that does not exist
+2021-07-24 17:04:35 INFO  Logging:52 - User was logged in
+2021-07-24 17:04:43 INFO  Logging:29 - aServ: New account # 1 has been created.
+2021-07-24 17:06:22 INFO  Logging:52 - User was logged in
+2021-07-24 17:14:42 INFO  Logging:52 - User was logged in
+2021-07-24 17:17:34 INFO  Logging:52 - User was logged in
+2021-07-24 17:31:05 INFO  Logging:52 - User was logged in
+2021-07-24 18:00:34 INFO  Logging:52 - User was logged in
+2021-07-24 18:08:11 INFO  Logging:52 - User was logged in
+2021-07-24 18:30:18 INFO  Logging:52 - User was logged in
+2021-07-24 18:33:15 INFO  Logging:52 - User was logged in
+2021-07-24 18:56:51 INFO  Logging:52 - User was logged in
+2021-07-25 10:08:45 INFO  Logging:52 - User was logged in
+2021-07-25 10:30:15 INFO  Logging:52 - User was logged in
+2021-07-25 10:32:03 INFO  Logging:52 - User was logged in
+2021-07-25 10:33:44 INFO  Logging:52 - User was logged in
+2021-07-25 10:50:00 INFO  Logging:52 - User was logged in
+2021-07-25 11:15:18 INFO  Logging:52 - User was logged in
+2021-07-25 11:29:43 INFO  Logging:30 - New user has registered
+2021-07-25 11:30:14 INFO  Logging:52 - User was logged in
+2021-07-25 11:30:29 INFO  Logging:29 - aServ: New account # 2 has been created.
+2021-07-25 12:12:54 INFO  Logging:52 - User was logged in
+2021-07-25 12:18:10 INFO  Logging:52 - User was logged in
+2021-07-25 12:20:59 INFO  Logging:52 - User was logged in
+2021-07-25 12:22:46 INFO  Logging:52 - User was logged in
+2021-07-25 12:25:06 INFO  Logging:52 - User was logged in
